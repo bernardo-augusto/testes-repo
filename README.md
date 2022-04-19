@@ -13,3 +13,6 @@ echo "ok";
 :grinning:
 
 😀
+
+-[ ] estudar
+-[ ] pagar contas
